@@ -105,3 +105,9 @@ To use the COTI plugin as a Local Plugin, follow these steps:
     | Location in remix       | Side Panel             |
 
     Once the values are filled in, click ok. The plugin will appear on the left part of the panel.
+
+## Working with Encrypted Data
+
+The COTI Remix plugin will automatically encrypt/decrypt values of type `IT` (input text) and `CT` (cipher text).
+
+For `IT` (input text) value types, only cleartext is required, the encryption is performed automatically by the plugin.
