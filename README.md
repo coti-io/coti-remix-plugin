@@ -12,10 +12,11 @@ The plugin seamlessly integrates with the Remix IDE, enabling developers to depl
 
 ### Getting Started
 
-1. **Installation**: Simply [open Remix](https://remix.ethereum.org/) and click the `Plugin Manager` icon on the lower-left part of the screen. Type "COTI" on the searchbox, once the plugin is visible, click "Activate". 
-   
-   For an even simpler, one-click installation, use [this direct link](TBD) and
-   get going.
+1. **Installation**: See the [Using the COTI plugin as a local plugin](https://github.com/coti-io/coti-remix-plugin?tab=readme-ov-file#using-the-coti-plugin-as-local-plugin) section.
+
+[//]: <Simply [open Remix](https://remix.ethereum.org/) and click the `Plugin Manager` icon on the lower-left part of the screen. Type "COTI" on the searchbox, once the plugin is visible, click "Activate".>
+
+[//]: <For an even simpler, one-click installation, use [this direct link](TBD) and get going.>
 
 2. **Usage**: Once the plugin is activated, you'll find an easy-to-use interface that allows you to deploy and interact with COTI contracts. Follow the on-screen prompts and tooltips to compile, deploy, and interact with your contracts.
 
