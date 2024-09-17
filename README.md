@@ -1,10 +1,12 @@
 # COTI Remix Plugin
 
-[![Discord](https://img.shields.io/discord/386571547508473876?label=Discord)](https://discord.gg/YdTB3P5P)
-
 <p align="center">
   <img src="remix_plugin_cover.jpg" style="width:400px" />
 </p>
+
+<p align="center"><a href="https://discord.gg/YdTB3P5P">
+  <img src="https://img.shields.io/discord/386571547508473876?label=Discord" />
+</a></p>
 
 Welcome to the **COTI Remix Plugin** repository.
 
