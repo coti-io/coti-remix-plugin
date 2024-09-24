@@ -54,7 +54,7 @@ Both options are tracked in the `coti_wallet_config.json` file, stored at the ro
 
 ### 1. Faucet
 
-The Faucet section will display your account balance and provide a link to the [COTI faucet](https://faucet.coti.io) on Discord. To request funds send a message to the bot using the format: `devnet <address>`, for example:
+The Faucet section will display your account balance and provide a link to the [COTI faucet](https://discord.gg/dnRhU2Wb) on Discord. To request funds send a message to the bot using the format: `devnet <address>`, for example:
 
     devnet 0xDa28f69CbB6d6072DA4bb10378fB87e367c6dF0D
 
