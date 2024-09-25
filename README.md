@@ -46,7 +46,7 @@ The plugin is comprised of 5 main sections, described below.
 
 The environment section (located at the bottom of the plugin) allows you to select the environment you wish to use to connect to the COTI network. Two options are available:
 
-1. **Wallet**: This option uses a browser-based wallet (i.e., MetaMask). You will need to have the COTI network added to your wallet. You may add the COTI network by visiting [Chainlist](https://chainlist.org/chain/13068200).
+1. **Wallet**: This option uses a browser-based wallet (i.e., MetaMask). You will need to have the COTI network added to your wallet. You may add the COTI network by visiting [Chainlist](https://chainlist.org/?search=coti&testnets=true).
 
 2. **Manual (Devnet)**: This option creates 2 accounts for you in the COTI network. 
 
