@@ -20,13 +20,9 @@ The plugin seamlessly integrates with the Remix IDE, enabling developers to depl
 > [!IMPORTANT]  
 > In order to use the privacy-preserving features of the COTI network with the Remix plugin, your workspace must include both [`MpcCore.sol`](https://github.com/coti-io/confidentiality-contracts/blob/main/contracts/lib/MpcCore.sol) and [`MpcInterface.sol`](https://github.com/coti-io/confidentiality-contracts/blob/main/contracts/lib/MpcInterface.sol) files.
 
-### Getting Started
+## Installation
 
-1. **Installation**: See the [Using the COTI plugin as a local plugin](https://github.com/coti-io/coti-remix-plugin?tab=readme-ov-file#using-the-coti-plugin-as-local-plugin) section.
-
-[//]: <Simply [open Remix](https://remix.ethereum.org/) and click the `Plugin Manager` icon on the lower-left part of the screen. Type "COTI" on the searchbox, once the plugin is visible, click "Activate".>
-
-[//]: <For an even simpler, one-click installation, use [this direct link](TBD) and get going.>
+1. Simply [open Remix](https://remix.ethereum.org/) and click the `Plugin Manager` icon on the lower-left part of the screen. Type "COTI" on the searchbox, once the plugin is visible, click "Activate".
 
 2. **Usage**: Once the plugin is activated, you'll find an easy-to-use interface that allows you to deploy and interact with COTI contracts. Follow the on-screen prompts and tooltips to compile, deploy, and interact with your contracts.
 
@@ -99,28 +95,6 @@ Four sub-sections are offered:
 ### 4. Interact
 
 The "Interact" section of the plugin serves a similar purpose to the native Remix "Interact" feature, with the key difference that it allows users to interact with contracts that are making use of the privacy-preserving features of the COTI network.
-
-## Using the COTI plugin as Local Plugin
-
-To use the COTI plugin as a Local Plugin, follow these steps:
-
-1. Click the "Plugin manager" button, located on the lower-left part of the screen in Remix.
-
-2. Select the "Connect to a Local Plugin" option atop the left panel.
-
-3. On the "Local Plugin" dialog, use the following values:
-
-    | FIELD                   | VALUE                  |
-    |-------------------------|------------------------|
-    | Plugin Name             | COTI                   |
-    | Display Name            | COTI                   |
-    | Api                     | (leave blank)          |
-    | Plugins it can activate | (leave blank)          |
-    | Url                     | https://remix.coti.io/ |
-    | Type of connection      | Iframe                 |
-    | Location in remix       | Side Panel             |
-
-    Once the values are filled in, click ok. The plugin will appear on the left part of the panel.
 
 ## Working with Encrypted Data
 
